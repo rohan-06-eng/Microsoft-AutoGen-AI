@@ -1,3 +1,4 @@
 pydantic
 autogen-agentchat
 autogen-ext[openai]
+autogen-core
